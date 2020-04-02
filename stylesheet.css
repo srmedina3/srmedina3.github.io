@@ -5,13 +5,13 @@
     }
 body {
         font-family:times new roman;
-        background-color: grey;
-}
-h1 {
-        font-family: times new roman;
-}
+        background-color: grey; }
 ul.navbar li { 
-        text-decoration: none }
+        text-decoration: none
+        font-size: 25pt; 
+        }
     a:link {
         color: white }
+a:visited {
+        color:white; }
     
