@@ -1,16 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Samantha's Website</title>
-    <style type="text/css">
-    h1 {
+ h1 {
         font-family:times new roman;
-        font-size:20pt;
-        color: blue ;
+        font-size:35pt;
+        color: white ;
     }
-     </style>
-</head>
-    <body>
-        <h1>Samantha's Website</h1>
-    </body>
-</html>
+body {
+        font-family:times new roman;
+        background-color: grey;
+}
+h1 {
+        font-family: times new roman;
+}
+ul.navbar li { 
+        text-decoration: none }
+    a:link {
+        color: white }
+    
