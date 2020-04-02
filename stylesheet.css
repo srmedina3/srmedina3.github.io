@@ -6,10 +6,10 @@
 body {
         font-family:times new roman;
         background-color: grey; }
-ul.navbar li { 
-        text-decoration: none
-        font-size: 25pt; 
-        }
+ul.navbar li a { 
+        text-decoration: none ;
+        font-size: 30pt;
+    }
     a:link {
         color: white }
 a:visited {
