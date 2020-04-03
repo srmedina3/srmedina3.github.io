@@ -1,7 +1,10 @@
  h1 {
         font-family:times new roman;
-        font-size:35pt;
-        color: white ;
+        display:flex; 
+        justify-content: center;
+        text-transform: uppercase;
+        font-size:40pt;
+        color: hotpink ;
     }
 body {
         font-family:times new roman;
@@ -14,4 +17,9 @@ ul.navbar li a {
         color: white }
 a:visited {
         color:white; }
-    
+        
+h2 {
+        font-family: times new roman;
+        font-size: 30pt;
+        color: black;
+}
